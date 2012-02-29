@@ -1,0 +1,1 @@
+This is my fir rails sample app, things are going interesting right now. Think i am gonna enjoy the tutorial.
